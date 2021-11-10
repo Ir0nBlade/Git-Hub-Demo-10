@@ -5,5 +5,7 @@ public class GitHubDemo10 {
         System.out.println("First Input by Vimal");
         System.out.println("Third Input by Kintal");
 
+        System.out.println("Fourth Input by Hiren");
+
     }
 }
